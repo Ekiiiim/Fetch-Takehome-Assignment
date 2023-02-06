@@ -1,4 +1,4 @@
-# Fetch Takehome Assignment
+# Fetch Take-Home Assignment
 
 Hi! This is Mike Cheng's repository for Fetch's takehome assignment. 
 
